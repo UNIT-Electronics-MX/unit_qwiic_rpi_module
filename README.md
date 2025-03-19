@@ -79,6 +79,9 @@ except KeyboardInterrupt:
 - [Qwiic Ecosystem Overview](https://www.sparkfun.com/qwiic)
 - [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
 - [Python smbus Library](https://pypi.org/project/smbus/)
+- [DualMCU](https://uelectronics.com/producto/unit-dualmcu-esp32-rp2040-tarjeta-de-desarrollo/)
+- [Lipo Boost & I2C](https://uelectronics.com/producto/unit-cargador-de-bateria-lipo-boost-i2c/)
+
 
 ## License
 
